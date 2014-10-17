@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fit:home|Door43 (fit)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fit|d43-fit repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fit/archive/master.zip|d43-fit.zip]]
+
+**Recent Changes**
+{{changes>ns = fit}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fit|Ethnologue data]]
+
